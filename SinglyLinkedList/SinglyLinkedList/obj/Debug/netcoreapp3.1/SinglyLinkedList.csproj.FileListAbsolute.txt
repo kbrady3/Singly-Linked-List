@@ -1,0 +1,11 @@
+C:\Users\Kabrina\Documents\GitHub Repos\Singly-Linked-List\SinglyLinkedList\SinglyLinkedList\bin\Debug\netcoreapp3.1\SinglyLinkedList.exe
+C:\Users\Kabrina\Documents\GitHub Repos\Singly-Linked-List\SinglyLinkedList\SinglyLinkedList\bin\Debug\netcoreapp3.1\SinglyLinkedList.deps.json
+C:\Users\Kabrina\Documents\GitHub Repos\Singly-Linked-List\SinglyLinkedList\SinglyLinkedList\bin\Debug\netcoreapp3.1\SinglyLinkedList.runtimeconfig.json
+C:\Users\Kabrina\Documents\GitHub Repos\Singly-Linked-List\SinglyLinkedList\SinglyLinkedList\bin\Debug\netcoreapp3.1\SinglyLinkedList.runtimeconfig.dev.json
+C:\Users\Kabrina\Documents\GitHub Repos\Singly-Linked-List\SinglyLinkedList\SinglyLinkedList\bin\Debug\netcoreapp3.1\SinglyLinkedList.dll
+C:\Users\Kabrina\Documents\GitHub Repos\Singly-Linked-List\SinglyLinkedList\SinglyLinkedList\bin\Debug\netcoreapp3.1\SinglyLinkedList.pdb
+C:\Users\Kabrina\Documents\GitHub Repos\Singly-Linked-List\SinglyLinkedList\SinglyLinkedList\obj\Debug\netcoreapp3.1\SinglyLinkedList.csprojAssemblyReference.cache
+C:\Users\Kabrina\Documents\GitHub Repos\Singly-Linked-List\SinglyLinkedList\SinglyLinkedList\obj\Debug\netcoreapp3.1\SinglyLinkedList.AssemblyInfoInputs.cache
+C:\Users\Kabrina\Documents\GitHub Repos\Singly-Linked-List\SinglyLinkedList\SinglyLinkedList\obj\Debug\netcoreapp3.1\SinglyLinkedList.AssemblyInfo.cs
+C:\Users\Kabrina\Documents\GitHub Repos\Singly-Linked-List\SinglyLinkedList\SinglyLinkedList\obj\Debug\netcoreapp3.1\SinglyLinkedList.dll
+C:\Users\Kabrina\Documents\GitHub Repos\Singly-Linked-List\SinglyLinkedList\SinglyLinkedList\obj\Debug\netcoreapp3.1\SinglyLinkedList.pdb
